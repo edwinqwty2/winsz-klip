@@ -1,4 +1,0 @@
-1. Membuat projek ToDoList sampai seleseai
-2. Membuat Tampilan FrontEnd yang bagus
-3. Bisa lancar Problem Solving
-4. Bisa melakukan FrontEnd Dev
